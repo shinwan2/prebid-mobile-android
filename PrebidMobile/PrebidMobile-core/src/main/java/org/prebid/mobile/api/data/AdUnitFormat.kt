@@ -14,12 +14,12 @@
  *    limitations under the License.
  */
 
-package org.prebid.mobile.api.data;
+package org.prebid.mobile.api.data
 
 /**
  * Public ad unit format. Can be set up by a publisher.
  */
-public enum AdUnitFormat {
+enum class AdUnitFormat {
     BANNER,
     VIDEO,
 }
